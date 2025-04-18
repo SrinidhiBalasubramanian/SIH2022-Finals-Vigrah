@@ -26,5 +26,17 @@ Validation Accuracy: 89.23%
 Training Data Accuracy:89.86%
 (With the Augmented dataset) With raw inscription images ~40%
 
+## Citation: 
+@article{agrawal2024optical,
+  title={Optical Character Recognition using Convolutional Neural Networks for Ashokan Brahmi Inscriptions},
+  author={Agrawal, Yash and Balasubramanian, Srinidhi and Meena, Rahul and Alam, Rohail and Malviya, Himanshu and others},
+  journal={arXiv preprint arXiv:2501.01981},
+  year={2024}
+}
+
+## Paper:
+https://arxiv.org/pdf/2501.01981
+
+
 ## References:
 * http://www.indoskript.org/pages/about
